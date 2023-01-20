@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.thesis_finaal">
-   <application
-        android:label="thesis_finaal"
+
+    <application
+        android:label="E-Tapon"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

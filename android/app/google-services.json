@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350159100896",
+    "firebase_url": "https://iot-itech-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-itech",
+    "storage_bucket": "iot-itech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350159100896:android:3ec0b75e0cbba84082a985",
+        "android_client_info": {
+          "package_name": "com.example.thesis_finaal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350159100896-o3vvg21chf4lt0vos0c229pta5lhlvgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQc2HG6YtxVonXNo0Bg-8qwD3JjCsEFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350159100896-o3vvg21chf4lt0vos0c229pta5lhlvgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

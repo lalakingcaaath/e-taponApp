@@ -20,29 +20,6 @@ class _SettingsState extends State<Settings> {
       body: Column(
         children: <Widget>[
           InkWell(
-            onTap: () {},
-            child: Padding(
-              padding: const EdgeInsets.symmetric(vertical: 20),
-              child: Row(
-                children: <Widget>[
-                  Expanded(
-                    child: Image.asset(
-                      'images/notification.png',
-                      height: 45,
-                    ),
-                  ),
-                  const Expanded(
-                    flex: 2,
-                    child: Text(
-                      "Notifications",
-                      style: TextStyle(fontSize: 30),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ),
-          InkWell(
             onTap: () {
               Navigator.of(context).push(
                 MaterialPageRoute(
@@ -109,3 +86,4 @@ class _SettingsState extends State<Settings> {
     );
   }
 }
+
